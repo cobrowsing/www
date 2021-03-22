@@ -11,3 +11,5 @@ WebPage
 + https://kodemintserviceshelp.freshdesk.com/support/solutions/articles/81000384629-how-to-setup-own-signaling-server-
 
 + [WebRTC Troubleshooter](https://test.webrtc.org/)
+
++ [What is WebRTC and How to Setup STUN/TURN Server for WebRTC Communication? | by Kavirajan ST | AV Transcode | Medium](https://medium.com/av-transcode/what-is-webrtc-and-how-to-setup-stun-turn-server-for-webrtc-communication-63314728b9d0)
